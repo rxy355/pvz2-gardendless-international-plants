@@ -16,9 +16,7 @@
 
 ## 下载
 
-前往 [Releases](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/latest) 下载合集压缩包：
-
-[InternationalPlants-Gardendless-0.16.15.zip](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/latest/download/InternationalPlants-Gardendless-0.16.15.zip)
+前往 [Releases](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/latest) 查看版本说明。合集 ZIP 可从仓库文件页下载：[InternationalPlants-Gardendless-0.16.15.zip](https://github.com/rxy355/pvz2-gardendless-international-plants/blob/main/InternationalPlants-Gardendless-0.16.15.zip)。
 
 ## 安装
 
