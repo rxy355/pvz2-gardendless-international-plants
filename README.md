@@ -1,6 +1,6 @@
 # 国际版植物合集（Gardendless）
 
-将六株《植物大战僵尸 2》国际版植物整合为一个适用于 **PvZ2 Gardendless 0.16.15** 的 JS Mod 包。合集包含实体框架和各植物机制、内容文件。
+将七株《植物大战僵尸 2》国际版植物整合为一个 JS Mod 包。合集包含实体框架和各植物机制、内容文件。1.3.5 已在 **PvZ2 Gardendless 0.16.27** 实测。
 
 ## 包含植物
 
@@ -12,27 +12,29 @@
 | 虎草（Tiger Grass） | 1.1.4 |
 | Ultomato | 1.1.3 |
 | Cornfetti | 1.1.0 |
+| 风滚草（Tumbleweed） | 1.0.5 |
 
-实体框架版本：0.1.1。合集版本：1.2.4。
+实体框架版本 0.1.1。合集版本 1.3.5。
 
 ## 下载
 
-前往 [Releases](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/latest) 查看版本说明。合集 ZIP 也可从仓库文件页下载：[InternationalPlants-Gardendless-0.16.15.zip](https://github.com/rxy355/pvz2-gardendless-international-plants/blob/main/InternationalPlants-Gardendless-0.16.15.zip)。
+前往 [Releases](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/latest) 查看版本说明，也可直接下载 [InternationalPlants-Gardendless-1.3.5.zip](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/download/v1.3.5/InternationalPlants-Gardendless-1.3.5.zip)。
 
 ## 安装
 
 1. 在 GP-Next 中按 **F9** 打开设置，在「实验性」选项中开启 **JS Modding**。
-2. 如果已安装这六株植物的旧版模组，请先停用它们各自的旧机制包、旧内容包，以及之前单独安装的实体框架。
+2. 如果已安装合集植物的独立模组，请先停用旧机制包、旧内容包和单独安装的实体框架。
 3. 在 Mods 页面导入本合集 ZIP，启用「国际版植物合集」，然后重启游戏。
-4. 在沙盒选卡中即可使用六株植物。要在普通关卡使用，请先载入存档，在 F9 的合集控制面板中按需解锁，再重新进入关卡。已有解锁记录会继续沿用。
+4. 在沙盒选卡中即可使用七株植物。要在普通关卡使用，请先载入存档，在 F9 的合集控制面板中按需解锁，再重新进入关卡。已有解锁记录会继续沿用。
 
 ## 植物说明
 
 - 解锁奶油生菜后，可在游戏商店「装扮」页购买紫叶装扮（3,000 金币）；购买后自动穿上，也可通过选卡或图鉴中的换装控件切换。
 - 野兽猕猴桃三阶累计实际受到 300 点伤害后，下一次命中的普通攻击触发击退；最多储存一次，触发后重新累计。
 - 虎草能量豆会永久解锁三阶强化草虎。草虎归巢后再次出击或战死再生时都会使用强化形态。虎草本体与种植预览已对齐草坪格，受伤的三阶草虎归巢后会播放回血动画。
-- 本合集新增 Cornfetti，机制版本为 1.1.0。
+- 风滚草每局从 1 级开始，每成功种下 3 次升一级，最高 10 级。新等级从下一株开始生效，3 级和 7 级切换场上外观。
+- 触发额外个体时，每个风滚草从同一格依次滚出。成功抛飞时，僵尸会飞出屏幕。
 
 ## 兼容性
 
-本合集针对 **PvZ2 Gardendless 0.16.15** 制作。其他游戏版本未经此包说明验证。
+1.3.5 已在 **PvZ2 Gardendless 0.16.27** 实测。面向 0.16.15 的旧版仍可从历史 Release 下载。
