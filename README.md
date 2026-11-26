@@ -1,6 +1,6 @@
 # 国际版植物合集（Gardendless）
 
-将七株《植物大战僵尸 2》国际版植物整合为一个 JS Mod 包。合集包含实体框架和各植物机制、内容文件。1.3.5 已在 **PvZ2 Gardendless 0.16.27** 实测。
+将八株《植物大战僵尸 2》国际版植物整合为一个 JS Mod 包。合集包含实体框架和各植物机制、内容文件。1.3.11 已在 **PvZ2 Gardendless 0.16.31** 实测。
 
 ## 包含植物
 
@@ -13,19 +13,20 @@
 | Ultomato | 1.1.3 |
 | Cornfetti | 1.1.0 |
 | 风滚草（Tumbleweed） | 1.0.5 |
+| 伏特龙草（Volt Snapdragon） | 0.1.0 |
 
-实体框架版本 0.1.1。合集版本 1.3.5。
+实体框架版本 0.1.1。合集版本 1.3.11。
 
 ## 下载
 
-前往 [Releases](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/latest) 查看版本说明，也可直接下载 [InternationalPlants-Gardendless-1.3.5.zip](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/download/v1.3.5/InternationalPlants-Gardendless-1.3.5.zip)。
+前往 [Releases](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/latest) 查看版本说明，也可直接下载 [InternationalPlants-Gardendless-1.3.11.zip](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/download/v1.3.11/InternationalPlants-Gardendless-1.3.11.zip)。
 
 ## 安装
 
 1. 在 GP-Next 中按 **F9** 打开设置，在「实验性」选项中开启 **JS Modding**。
 2. 如果已安装合集植物的独立模组，请先停用旧机制包、旧内容包和单独安装的实体框架。
 3. 在 Mods 页面导入本合集 ZIP，启用「国际版植物合集」，然后重启游戏。
-4. 在沙盒选卡中即可使用七株植物。要在普通关卡使用，请先载入存档，在 F9 的合集控制面板中按需解锁，再重新进入关卡。已有解锁记录会继续沿用。
+4. 在沙盒选卡中即可使用八株植物。要在普通关卡使用，请先载入存档，在 F9 的合集控制面板中按需解锁，再重新进入关卡。已有解锁记录会继续沿用。
 
 ## 植物说明
 
@@ -35,6 +36,8 @@
 - 风滚草每局从 1 级开始，每成功种下 3 次升一级，最高 10 级。新等级从下一株开始生效，3 级和 7 级切换场上外观。
 - 触发额外个体时，每个风滚草从同一格依次滚出。成功抛飞时，僵尸会飞出屏幕。
 
+- 伏特龙草使用国际版 13.5.2 的默认皮肤。持续放电会逐档提高伤害，能量豆在前方逐格施放雷暴。手持种植预览按落地植株的比例显示。
+
 ## 兼容性
 
-1.3.5 已在 **PvZ2 Gardendless 0.16.27** 实测。面向 0.16.15 的旧版仍可从历史 Release 下载。
+1.3.11 已在 **PvZ2 Gardendless 0.16.31** 实测。面向 0.16.15 的旧版仍可从历史 Release 下载。
