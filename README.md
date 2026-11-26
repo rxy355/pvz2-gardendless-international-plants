@@ -1,6 +1,6 @@
 # 国际版植物合集（Gardendless）
 
-将八株《植物大战僵尸 2》国际版植物整合为一个 JS Mod 包。合集包含实体框架和各植物机制、内容文件。1.3.11 已在 **PvZ2 Gardendless 0.16.31** 实测。
+将八株《植物大战僵尸 2》国际版植物整合为一个 JS Mod 包。合集包含实体框架和各植物机制、内容文件。1.3.14 已在 **PvZ2 Gardendless 0.16.31** 实测。
 
 ## 包含植物
 
@@ -15,11 +15,11 @@
 | 风滚草（Tumbleweed） | 1.0.5 |
 | 伏特龙草（Volt Snapdragon） | 0.1.0 |
 
-实体框架版本 0.1.1。合集版本 1.3.11。
+实体框架版本 0.1.1。合集版本 1.3.14。
 
 ## 下载
 
-前往 [Releases](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/latest) 查看版本说明，也可直接下载 [InternationalPlants-Gardendless-1.3.11.zip](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/download/v1.3.11/InternationalPlants-Gardendless-1.3.11.zip)。
+前往 [Releases](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/latest) 查看版本说明，也可直接下载 [InternationalPlants-Gardendless-1.3.14.zip](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/download/v1.3.14/InternationalPlants-Gardendless-1.3.14.zip)。
 
 ## 安装
 
@@ -38,6 +38,8 @@
 
 - 伏特龙草使用国际版 13.5.2 的默认皮肤。持续放电会逐档提高伤害，能量豆在前方逐格施放雷暴。手持种植预览按落地植株的比例显示。
 
+- 伏特龙草接入闪电醋栗的原生连线。强化时普攻射程翻倍，普攻、连锁和能量豆伤害减半。断电不足 1.5 秒保留伤害档位。能量豆扩大为前方 6 列 × 3 行，每次命中使僵尸麻痹 0.25 秒。植株和攻击特效变红，红电击杀触发原生红色电击灰化。已在 Gardendless 0.16.31 实测。
+
 ## 兼容性
 
-1.3.11 已在 **PvZ2 Gardendless 0.16.31** 实测。面向 0.16.15 的旧版仍可从历史 Release 下载。
+1.3.14 已在 **PvZ2 Gardendless 0.16.31** 实测。面向 0.16.15 的旧版仍可从历史 Release 下载。
