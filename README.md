@@ -1,6 +1,6 @@
 # 国际版植物合集（Gardendless）
 
-将九株《植物大战僵尸 2》国际版植物整合为一个 JS Mod 包。合集包含实体框架和各植物机制、内容文件。1.3.36 已在 **PvZ2 Gardendless 0.16.31** 实测。
+将九株《植物大战僵尸 2》国际版植物整合为一个 JS Mod 包。合集包含实体框架和各植物机制、内容文件。1.3.47 已在 **PvZ2 Gardendless 0.16.31** 实测。
 
 ## 包含植物
 
@@ -16,11 +16,11 @@
 | 伏特龙草（Volt Snapdragon） | 0.1.0 |
 | 尖刺秋葵（Pokra） | 1.0.0 |
 
-实体框架版本 0.1.1。合集版本 1.3.36。
+实体框架版本 0.1.1。合集版本 1.3.47。
 
 ## 下载
 
-前往 [Releases](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/latest) 查看版本说明，也可直接下载 [InternationalPlants-Gardendless-1.3.36.zip](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/download/v1.3.36/InternationalPlants-Gardendless-1.3.36.zip)。
+前往 [Releases](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/latest) 查看版本说明，也可直接下载 [InternationalPlants-Gardendless-1.3.47.zip](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/download/v1.3.47/InternationalPlants-Gardendless-1.3.47.zip)。
 
 ## 安装
 
@@ -43,6 +43,8 @@
 
 - 尖刺秋葵使用国际版 13.5.2 的动画、种子包图、特效和音效。近刺会从单刺加速至四连刺，随后发射一枚穿透尖刺。能量豆会连发三枚强化尖刺。近刺闪光按原版锚点出现在目标上，减速粒子随目标的位置和体型更新。
 
+- 尖刺秋葵死亡时会原地力竭，双刺错峰垂落。死亡动画结束时，整株随游戏通用死亡特效同步退场。
+
 ## 兼容性
 
-1.3.36 已在 **PvZ2 Gardendless 0.16.31** 实测。面向 0.16.15 的旧版仍可从历史 Release 下载。
+1.3.47 已在 **PvZ2 Gardendless 0.16.31** 实测。面向 0.16.15 的旧版仍可从历史 Release 下载。
