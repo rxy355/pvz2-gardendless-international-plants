@@ -1,32 +1,33 @@
 # 国际版植物合集（Gardendless）
 
-将八株《植物大战僵尸 2》国际版植物整合为一个 JS Mod 包。合集包含实体框架和各植物机制、内容文件。1.3.14 已在 **PvZ2 Gardendless 0.16.31** 实测。
+将九株《植物大战僵尸 2》国际版植物整合为一个 JS Mod 包。合集包含实体框架和各植物机制、内容文件。1.3.36 已在 **PvZ2 Gardendless 0.16.31** 实测。
 
 ## 包含植物
 
 | 植物 | 模组机制版本 |
 | --- | --- |
-| 奶油生菜（Headbutter Lettuce） | 3.4.4 |
-| 寒冰菇（Ice-shroom） | 1.1.3 |
+| 奶油生菜（Headbutter Lettuce） | 3.4.6 |
+| 寒冰菇（Ice-shroom） | 1.1.4 |
 | 野兽猕猴桃（Kiwibeast） | 1.1.1 |
 | 虎草（Tiger Grass） | 1.1.4 |
-| Ultomato | 1.1.3 |
-| Cornfetti | 1.1.0 |
+| 终极番茄（Ultomato） | 1.1.3 |
+| 彩纸玉米炮（Corn-fetti Popper） | 1.1.0 |
 | 风滚草（Tumbleweed） | 1.0.5 |
 | 伏特龙草（Volt Snapdragon） | 0.1.0 |
+| 尖刺秋葵（Pokra） | 1.0.0 |
 
-实体框架版本 0.1.1。合集版本 1.3.14。
+实体框架版本 0.1.1。合集版本 1.3.36。
 
 ## 下载
 
-前往 [Releases](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/latest) 查看版本说明，也可直接下载 [InternationalPlants-Gardendless-1.3.14.zip](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/download/v1.3.14/InternationalPlants-Gardendless-1.3.14.zip)。
+前往 [Releases](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/latest) 查看版本说明，也可直接下载 [InternationalPlants-Gardendless-1.3.36.zip](https://github.com/rxy355/pvz2-gardendless-international-plants/releases/download/v1.3.36/InternationalPlants-Gardendless-1.3.36.zip)。
 
 ## 安装
 
 1. 在 GP-Next 中按 **F9** 打开设置，在「实验性」选项中开启 **JS Modding**。
 2. 如果已安装合集植物的独立模组，请先停用旧机制包、旧内容包和单独安装的实体框架。
 3. 在 Mods 页面导入本合集 ZIP，启用「国际版植物合集」，然后重启游戏。
-4. 在沙盒选卡中即可使用八株植物。要在普通关卡使用，请先载入存档，在 F9 的合集控制面板中按需解锁，再重新进入关卡。已有解锁记录会继续沿用。
+4. 在沙盒选卡中即可使用九株植物。要在普通关卡使用，请先载入存档，在 F9 的合集控制面板中按需解锁，再重新进入关卡。已有解锁记录会继续沿用。
 
 ## 植物说明
 
@@ -40,6 +41,8 @@
 
 - 伏特龙草接入闪电醋栗的原生连线。强化时普攻射程翻倍，普攻、连锁和能量豆伤害减半。断电不足 1.5 秒保留伤害档位。能量豆扩大为前方 6 列 × 3 行，每次命中使僵尸麻痹 0.25 秒。植株和攻击特效变红，红电击杀触发原生红色电击灰化。已在 Gardendless 0.16.31 实测。
 
+- 尖刺秋葵使用国际版 13.5.2 的动画、种子包图、特效和音效。近刺会从单刺加速至四连刺，随后发射一枚穿透尖刺。能量豆会连发三枚强化尖刺。近刺闪光按原版锚点出现在目标上，减速粒子随目标的位置和体型更新。
+
 ## 兼容性
 
-1.3.14 已在 **PvZ2 Gardendless 0.16.31** 实测。面向 0.16.15 的旧版仍可从历史 Release 下载。
+1.3.36 已在 **PvZ2 Gardendless 0.16.31** 实测。面向 0.16.15 的旧版仍可从历史 Release 下载。
